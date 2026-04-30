@@ -1,0 +1,45 @@
+# Datasets volumineux (> 100 Mo, dépassent la limite GitHub)
+data/*.csv
+data/*.zip
+*.csv
+*.zip
+!data/SAML-D_sample_1k.csv
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Environnements
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Outputs / artefacts
+output/
+results/
+*.log
+
+# Dossier de références internes (non public)
+_references/
