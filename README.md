@@ -146,9 +146,3 @@ jupyter notebook aml_detection_saml_d_en.ipynb
 - **SAML-D Dataset** — Oztas, B. (2023)
 
 ---
-
-## 📄 License
-
-Released under the [MIT License](LICENSE) — free to use, modify, and redistribute with attribution.
-
-Educational project completed as part of the Jedha Bootcamp.
