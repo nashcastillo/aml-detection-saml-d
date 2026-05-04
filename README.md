@@ -144,4 +144,6 @@ jupyter notebook aml_detection_saml_d_en.ipynb
 
 ## 📄 License
 
-Educational project completed as part of the Jedha Bootcamp — free use for learning purposes.
+Released under the [MIT License](LICENSE) — free to use, modify, and redistribute with attribution.
+
+Educational project completed as part of the Jedha Bootcamp.
