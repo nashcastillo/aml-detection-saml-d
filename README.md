@@ -16,9 +16,9 @@
 
 Project completed during the **Data Essentials — Jedha Bootcamp** training program (April 2026).
 
-- **Nashely Castillo** — AML Compliance Officer (business framing, EDA, modeling)
-- **Gwladys Pioche** — Exploratory data analysis
-- **Robin Pradier** — Machine Learning modeling
+- **Nashely Castillo** — 
+- **Gwladys Pioche** — 
+- **Robin Pradier** — 
 
 ---
 
