@@ -16,9 +16,9 @@
 
 Project completed during the **Data Essentials — Jedha Bootcamp** training program (April 2026).
 
-- **Nashely Castillo** — 
-- **Gwladys Pioche** — 
-- **Robin Pradier** — 
+- **Nashely Castillo** 
+- **Gwladys Pioche** 
+- **Robin Pradier** 
 
 ---
 
